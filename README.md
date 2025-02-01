@@ -89,7 +89,7 @@ This pipeline outlines the steps involved in building a credit card fraud detect
 - Split the data into 80% for training and 20% for testing.
 - Use train_test_split with random_state for reproducibility.
 - Consider stratified sampling to maintain class proportions in both sets.
-- 
+  
 **Output:** Training and testing datasets ready for model training and evaluation.
 
 **6. Model Building and Hyperparameter Tuning:**
