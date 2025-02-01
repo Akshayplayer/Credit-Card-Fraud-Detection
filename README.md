@@ -114,7 +114,7 @@ This pipeline outlines the steps involved in building a credit card fraud detect
 
 **Specific Actions:**
 - Use metrics like accuracy, precision, recall, and F1-score.
-- Confusion matrix and classification report can be used to check the performance of the model on the classes.
+- A confusion matrix and classification report can be used to check the performance of the model in the classes.
 - Focus on recall to identify fraudulent transactions more effectively.
-- 
+  
 **Output:** Final model with its performance metrics on the testing data, demonstrating its ability to detect fraud.
